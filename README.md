@@ -47,7 +47,7 @@ The dashboard provides insights into:
 - Binders, Chairs, and Phones were the top-selling sub-categories.
 
 ### Dashboard
-![](Dashboard.png)
+![](Dashboard.PNG)
 
 Author
 Mohammad Anwar – Data Analyst 
